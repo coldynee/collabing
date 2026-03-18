@@ -1,3 +1,1 @@
 #smth text
-
-test text
